@@ -1,0 +1,3330 @@
+{
+  "corps": {
+    "2016": {
+      "A": {
+        "claims": 408,
+        "abstract": 116,
+        "total": 2674,
+        "documents": 96,
+        "description": 2150
+      },
+      "H": {
+        "claims": 130,
+        "abstract": 30,
+        "total": 1280,
+        "documents": 71,
+        "description": 1120
+      },
+      "G": {
+        "claims": 38,
+        "abstract": 15,
+        "total": 560,
+        "documents": 49,
+        "description": 507
+      }
+    },
+    "2017": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2002": {
+      "A": {
+        "claims": 1832,
+        "abstract": 543,
+        "total": 10574,
+        "documents": 889,
+        "description": 8199
+      },
+      "H": {
+        "claims": 1087,
+        "abstract": 249,
+        "total": 5694,
+        "documents": 447,
+        "description": 4358
+      },
+      "G": {
+        "claims": 989,
+        "abstract": 248,
+        "total": 5128,
+        "documents": 441,
+        "description": 3891
+      }
+    },
+    "2003": {
+      "A": {
+        "claims": 2106,
+        "abstract": 538,
+        "total": 11862,
+        "documents": 876,
+        "description": 9218
+      },
+      "H": {
+        "claims": 1136,
+        "abstract": 245,
+        "total": 6686,
+        "documents": 494,
+        "description": 5305
+      },
+      "G": {
+        "claims": 1236,
+        "abstract": 275,
+        "total": 5932,
+        "documents": 466,
+        "description": 4421
+      }
+    },
+    "2000": {
+      "A": {
+        "claims": 629,
+        "abstract": 174,
+        "total": 3066,
+        "documents": 361,
+        "description": 2263
+      },
+      "H": {
+        "claims": 451,
+        "abstract": 136,
+        "total": 2561,
+        "documents": 217,
+        "description": 1974
+      },
+      "G": {
+        "claims": 495,
+        "abstract": 97,
+        "total": 2159,
+        "documents": 182,
+        "description": 1567
+      }
+    },
+    "2001": {
+      "A": {
+        "claims": 1559,
+        "abstract": 433,
+        "total": 8022,
+        "documents": 796,
+        "description": 6030
+      },
+      "H": {
+        "claims": 971,
+        "abstract": 231,
+        "total": 5535,
+        "documents": 477,
+        "description": 4333
+      },
+      "G": {
+        "claims": 769,
+        "abstract": 209,
+        "total": 4193,
+        "documents": 415,
+        "description": 3215
+      }
+    },
+    "2006": {
+      "A": {
+        "claims": 2319,
+        "abstract": 636,
+        "total": 13199,
+        "documents": 1162,
+        "description": 10244
+      },
+      "H": {
+        "claims": 1063,
+        "abstract": 270,
+        "total": 5926,
+        "documents": 425,
+        "description": 4593
+      },
+      "G": {
+        "claims": 960,
+        "abstract": 216,
+        "total": 5378,
+        "documents": 394,
+        "description": 4202
+      }
+    },
+    "2007": {
+      "A": {
+        "claims": 2191,
+        "abstract": 589,
+        "total": 12771,
+        "documents": 1091,
+        "description": 9991
+      },
+      "H": {
+        "claims": 1051,
+        "abstract": 252,
+        "total": 5882,
+        "documents": 374,
+        "description": 4579
+      },
+      "G": {
+        "claims": 775,
+        "abstract": 210,
+        "total": 4204,
+        "documents": 399,
+        "description": 3219
+      }
+    },
+    "2004": {
+      "A": {
+        "claims": 1746,
+        "abstract": 497,
+        "total": 9072,
+        "documents": 855,
+        "description": 6829
+      },
+      "H": {
+        "claims": 1202,
+        "abstract": 205,
+        "total": 5269,
+        "documents": 453,
+        "description": 3862
+      },
+      "G": {
+        "claims": 1385,
+        "abstract": 185,
+        "total": 5511,
+        "documents": 371,
+        "description": 3941
+      }
+    },
+    "2005": {
+      "A": {
+        "claims": 1818,
+        "abstract": 477,
+        "total": 10478,
+        "documents": 987,
+        "description": 8183
+      },
+      "H": {
+        "claims": 1408,
+        "abstract": 282,
+        "total": 6438,
+        "documents": 459,
+        "description": 4748
+      },
+      "G": {
+        "claims": 962,
+        "abstract": 220,
+        "total": 5308,
+        "documents": 435,
+        "description": 4126
+      }
+    },
+    "2015": {
+      "A": {
+        "claims": 1937,
+        "abstract": 542,
+        "total": 14775,
+        "documents": 825,
+        "description": 12296
+      },
+      "H": {
+        "claims": 837,
+        "abstract": 254,
+        "total": 6358,
+        "documents": 386,
+        "description": 5267
+      },
+      "G": {
+        "claims": 1194,
+        "abstract": 258,
+        "total": 7858,
+        "documents": 502,
+        "description": 6406
+      }
+    },
+    "2014": {
+      "A": {
+        "claims": 2211,
+        "abstract": 576,
+        "total": 15642,
+        "documents": 1055,
+        "description": 12855
+      },
+      "H": {
+        "claims": 1236,
+        "abstract": 302,
+        "total": 9751,
+        "documents": 468,
+        "description": 8213
+      },
+      "G": {
+        "claims": 887,
+        "abstract": 225,
+        "total": 5335,
+        "documents": 455,
+        "description": 4223
+      }
+    },
+    "2008": {
+      "A": {
+        "claims": 2036,
+        "abstract": 531,
+        "total": 12505,
+        "documents": 1032,
+        "description": 9938
+      },
+      "H": {
+        "claims": 788,
+        "abstract": 185,
+        "total": 5161,
+        "documents": 359,
+        "description": 4188
+      },
+      "G": {
+        "claims": 844,
+        "abstract": 196,
+        "total": 4798,
+        "documents": 409,
+        "description": 3758
+      }
+    },
+    "2009": {
+      "A": {
+        "claims": 1928,
+        "abstract": 562,
+        "total": 12640,
+        "documents": 1005,
+        "description": 10150
+      },
+      "H": {
+        "claims": 905,
+        "abstract": 239,
+        "total": 5538,
+        "documents": 371,
+        "description": 4394
+      },
+      "G": {
+        "claims": 859,
+        "abstract": 253,
+        "total": 4941,
+        "documents": 403,
+        "description": 3829
+      }
+    },
+    "2011": {
+      "A": {
+        "claims": 1892,
+        "abstract": 503,
+        "total": 11940,
+        "documents": 825,
+        "description": 9545
+      },
+      "H": {
+        "claims": 895,
+        "abstract": 207,
+        "total": 5879,
+        "documents": 357,
+        "description": 4777
+      },
+      "G": {
+        "claims": 776,
+        "abstract": 197,
+        "total": 4808,
+        "documents": 368,
+        "description": 3835
+      }
+    },
+    "2010": {
+      "A": {
+        "claims": 1715,
+        "abstract": 544,
+        "total": 11007,
+        "documents": 847,
+        "description": 8748
+      },
+      "H": {
+        "claims": 774,
+        "abstract": 206,
+        "total": 4853,
+        "documents": 371,
+        "description": 3873
+      },
+      "G": {
+        "claims": 894,
+        "abstract": 253,
+        "total": 5439,
+        "documents": 390,
+        "description": 4292
+      }
+    },
+    "2013": {
+      "A": {
+        "claims": 2414,
+        "abstract": 686,
+        "total": 16317,
+        "documents": 1116,
+        "description": 13217
+      },
+      "H": {
+        "claims": 864,
+        "abstract": 243,
+        "total": 6336,
+        "documents": 431,
+        "description": 5229
+      },
+      "G": {
+        "claims": 1034,
+        "abstract": 260,
+        "total": 6786,
+        "documents": 523,
+        "description": 5492
+      }
+    },
+    "2012": {
+      "A": {
+        "claims": 1986,
+        "abstract": 551,
+        "total": 14514,
+        "documents": 933,
+        "description": 11977
+      },
+      "H": {
+        "claims": 1135,
+        "abstract": 278,
+        "total": 7443,
+        "documents": 418,
+        "description": 6030
+      },
+      "G": {
+        "claims": 596,
+        "abstract": 134,
+        "total": 3838,
+        "documents": 356,
+        "description": 3108
+      }
+    }
+  },
+  "polymere": {
+    "2016": {
+      "A": {
+        "claims": 37,
+        "abstract": 2,
+        "total": 217,
+        "documents": 26,
+        "description": 178
+      },
+      "H": {
+        "claims": 10,
+        "abstract": 1,
+        "total": 95,
+        "documents": 13,
+        "description": 84
+      },
+      "G": {
+        "claims": 6,
+        "abstract": 1,
+        "total": 40,
+        "documents": 7,
+        "description": 33
+      }
+    },
+    "2017": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2002": {
+      "A": {
+        "claims": 1147,
+        "abstract": 116,
+        "total": 4418,
+        "documents": 286,
+        "description": 3155
+      },
+      "H": {
+        "claims": 323,
+        "abstract": 50,
+        "total": 1713,
+        "documents": 157,
+        "description": 1340
+      },
+      "G": {
+        "claims": 128,
+        "abstract": 23,
+        "total": 770,
+        "documents": 145,
+        "description": 619
+      }
+    },
+    "2003": {
+      "A": {
+        "claims": 692,
+        "abstract": 86,
+        "total": 3495,
+        "documents": 242,
+        "description": 2717
+      },
+      "H": {
+        "claims": 321,
+        "abstract": 45,
+        "total": 2111,
+        "documents": 169,
+        "description": 1745
+      },
+      "G": {
+        "claims": 218,
+        "abstract": 46,
+        "total": 1192,
+        "documents": 142,
+        "description": 928
+      }
+    },
+    "2000": {
+      "A": {
+        "claims": 545,
+        "abstract": 44,
+        "total": 1779,
+        "documents": 117,
+        "description": 1190
+      },
+      "H": {
+        "claims": 188,
+        "abstract": 19,
+        "total": 743,
+        "documents": 72,
+        "description": 536
+      },
+      "G": {
+        "claims": 143,
+        "abstract": 21,
+        "total": 617,
+        "documents": 54,
+        "description": 453
+      }
+    },
+    "2001": {
+      "A": {
+        "claims": 924,
+        "abstract": 101,
+        "total": 3479,
+        "documents": 222,
+        "description": 2454
+      },
+      "H": {
+        "claims": 267,
+        "abstract": 59,
+        "total": 1569,
+        "documents": 143,
+        "description": 1243
+      },
+      "G": {
+        "claims": 252,
+        "abstract": 45,
+        "total": 1301,
+        "documents": 121,
+        "description": 1004
+      }
+    },
+    "2006": {
+      "A": {
+        "claims": 888,
+        "abstract": 88,
+        "total": 5841,
+        "documents": 434,
+        "description": 4865
+      },
+      "H": {
+        "claims": 349,
+        "abstract": 56,
+        "total": 1713,
+        "documents": 169,
+        "description": 1308
+      },
+      "G": {
+        "claims": 165,
+        "abstract": 20,
+        "total": 954,
+        "documents": 146,
+        "description": 769
+      }
+    },
+    "2007": {
+      "A": {
+        "claims": 772,
+        "abstract": 82,
+        "total": 5142,
+        "documents": 394,
+        "description": 4288
+      },
+      "H": {
+        "claims": 410,
+        "abstract": 82,
+        "total": 2413,
+        "documents": 197,
+        "description": 1921
+      },
+      "G": {
+        "claims": 289,
+        "abstract": 45,
+        "total": 1307,
+        "documents": 140,
+        "description": 973
+      }
+    },
+    "2004": {
+      "A": {
+        "claims": 1269,
+        "abstract": 132,
+        "total": 6118,
+        "documents": 320,
+        "description": 4717
+      },
+      "H": {
+        "claims": 329,
+        "abstract": 49,
+        "total": 1661,
+        "documents": 173,
+        "description": 1283
+      },
+      "G": {
+        "claims": 88,
+        "abstract": 9,
+        "total": 615,
+        "documents": 110,
+        "description": 518
+      }
+    },
+    "2005": {
+      "A": {
+        "claims": 921,
+        "abstract": 98,
+        "total": 4977,
+        "documents": 333,
+        "description": 3958
+      },
+      "H": {
+        "claims": 403,
+        "abstract": 76,
+        "total": 1946,
+        "documents": 168,
+        "description": 1467
+      },
+      "G": {
+        "claims": 176,
+        "abstract": 22,
+        "total": 1145,
+        "documents": 134,
+        "description": 947
+      }
+    },
+    "2015": {
+      "A": {
+        "claims": 341,
+        "abstract": 51,
+        "total": 2878,
+        "documents": 251,
+        "description": 2486
+      },
+      "H": {
+        "claims": 330,
+        "abstract": 46,
+        "total": 2557,
+        "documents": 249,
+        "description": 2181
+      },
+      "G": {
+        "claims": 148,
+        "abstract": 19,
+        "total": 1046,
+        "documents": 163,
+        "description": 879
+      }
+    },
+    "2014": {
+      "A": {
+        "claims": 731,
+        "abstract": 150,
+        "total": 5884,
+        "documents": 352,
+        "description": 5003
+      },
+      "H": {
+        "claims": 559,
+        "abstract": 80,
+        "total": 3701,
+        "documents": 304,
+        "description": 3062
+      },
+      "G": {
+        "claims": 114,
+        "abstract": 18,
+        "total": 909,
+        "documents": 180,
+        "description": 777
+      }
+    },
+    "2008": {
+      "A": {
+        "claims": 641,
+        "abstract": 84,
+        "total": 5632,
+        "documents": 409,
+        "description": 4907
+      },
+      "H": {
+        "claims": 311,
+        "abstract": 57,
+        "total": 1934,
+        "documents": 198,
+        "description": 1566
+      },
+      "G": {
+        "claims": 187,
+        "abstract": 31,
+        "total": 1339,
+        "documents": 168,
+        "description": 1121
+      }
+    },
+    "2009": {
+      "A": {
+        "claims": 441,
+        "abstract": 76,
+        "total": 5553,
+        "documents": 386,
+        "description": 5036
+      },
+      "H": {
+        "claims": 357,
+        "abstract": 57,
+        "total": 2057,
+        "documents": 200,
+        "description": 1643
+      },
+      "G": {
+        "claims": 95,
+        "abstract": 18,
+        "total": 775,
+        "documents": 118,
+        "description": 662
+      }
+    },
+    "2011": {
+      "A": {
+        "claims": 582,
+        "abstract": 138,
+        "total": 4658,
+        "documents": 318,
+        "description": 3938
+      },
+      "H": {
+        "claims": 420,
+        "abstract": 64,
+        "total": 2378,
+        "documents": 255,
+        "description": 1894
+      },
+      "G": {
+        "claims": 181,
+        "abstract": 22,
+        "total": 1030,
+        "documents": 136,
+        "description": 827
+      }
+    },
+    "2010": {
+      "A": {
+        "claims": 533,
+        "abstract": 75,
+        "total": 6341,
+        "documents": 334,
+        "description": 5733
+      },
+      "H": {
+        "claims": 397,
+        "abstract": 71,
+        "total": 2724,
+        "documents": 222,
+        "description": 2256
+      },
+      "G": {
+        "claims": 233,
+        "abstract": 28,
+        "total": 1421,
+        "documents": 170,
+        "description": 1160
+      }
+    },
+    "2013": {
+      "A": {
+        "claims": 669,
+        "abstract": 87,
+        "total": 5635,
+        "documents": 429,
+        "description": 4879
+      },
+      "H": {
+        "claims": 543,
+        "abstract": 98,
+        "total": 3818,
+        "documents": 261,
+        "description": 3177
+      },
+      "G": {
+        "claims": 168,
+        "abstract": 19,
+        "total": 1307,
+        "documents": 182,
+        "description": 1120
+      }
+    },
+    "2012": {
+      "A": {
+        "claims": 736,
+        "abstract": 130,
+        "total": 6938,
+        "documents": 355,
+        "description": 6072
+      },
+      "H": {
+        "claims": 334,
+        "abstract": 52,
+        "total": 2230,
+        "documents": 263,
+        "description": 1844
+      },
+      "G": {
+        "claims": 115,
+        "abstract": 18,
+        "total": 944,
+        "documents": 155,
+        "description": 811
+      }
+    }
+  },
+  "avion": {
+    "2016": {
+      "A": {
+        "claims": 1,
+        "abstract": 1,
+        "total": 8,
+        "documents": 1,
+        "description": 6
+      },
+      "H": {
+        "claims": 2,
+        "abstract": 0,
+        "total": 26,
+        "documents": 2,
+        "description": 24
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 11,
+        "documents": 7,
+        "description": 11
+      }
+    },
+    "2017": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2002": {
+      "A": {
+        "claims": 6,
+        "abstract": 1,
+        "total": 44,
+        "documents": 17,
+        "description": 37
+      },
+      "H": {
+        "claims": 12,
+        "abstract": 5,
+        "total": 172,
+        "documents": 37,
+        "description": 155
+      },
+      "G": {
+        "claims": 33,
+        "abstract": 15,
+        "total": 610,
+        "documents": 80,
+        "description": 562
+      }
+    },
+    "2003": {
+      "A": {
+        "claims": 0,
+        "abstract": 1,
+        "total": 17,
+        "documents": 9,
+        "description": 16
+      },
+      "H": {
+        "claims": 6,
+        "abstract": 2,
+        "total": 153,
+        "documents": 45,
+        "description": 145
+      },
+      "G": {
+        "claims": 68,
+        "abstract": 19,
+        "total": 785,
+        "documents": 82,
+        "description": 698
+      }
+    },
+    "2000": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 8,
+        "documents": 5,
+        "description": 8
+      },
+      "H": {
+        "claims": 4,
+        "abstract": 4,
+        "total": 74,
+        "documents": 18,
+        "description": 66
+      },
+      "G": {
+        "claims": 25,
+        "abstract": 2,
+        "total": 375,
+        "documents": 26,
+        "description": 348
+      }
+    },
+    "2001": {
+      "A": {
+        "claims": 1,
+        "abstract": 1,
+        "total": 21,
+        "documents": 12,
+        "description": 19
+      },
+      "H": {
+        "claims": 40,
+        "abstract": 13,
+        "total": 300,
+        "documents": 45,
+        "description": 247
+      },
+      "G": {
+        "claims": 68,
+        "abstract": 22,
+        "total": 570,
+        "documents": 65,
+        "description": 480
+      }
+    },
+    "2006": {
+      "A": {
+        "claims": 2,
+        "abstract": 5,
+        "total": 34,
+        "documents": 6,
+        "description": 27
+      },
+      "H": {
+        "claims": 36,
+        "abstract": 6,
+        "total": 310,
+        "documents": 49,
+        "description": 268
+      },
+      "G": {
+        "claims": 206,
+        "abstract": 25,
+        "total": 1758,
+        "documents": 146,
+        "description": 1527
+      }
+    },
+    "2007": {
+      "A": {
+        "claims": 3,
+        "abstract": 2,
+        "total": 63,
+        "documents": 23,
+        "description": 58
+      },
+      "H": {
+        "claims": 27,
+        "abstract": 3,
+        "total": 758,
+        "documents": 77,
+        "description": 728
+      },
+      "G": {
+        "claims": 116,
+        "abstract": 20,
+        "total": 1615,
+        "documents": 154,
+        "description": 1479
+      }
+    },
+    "2004": {
+      "A": {
+        "claims": 2,
+        "abstract": 1,
+        "total": 28,
+        "documents": 11,
+        "description": 25
+      },
+      "H": {
+        "claims": 13,
+        "abstract": 7,
+        "total": 164,
+        "documents": 50,
+        "description": 144
+      },
+      "G": {
+        "claims": 82,
+        "abstract": 13,
+        "total": 592,
+        "documents": 66,
+        "description": 497
+      }
+    },
+    "2005": {
+      "A": {
+        "claims": 6,
+        "abstract": 0,
+        "total": 25,
+        "documents": 10,
+        "description": 19
+      },
+      "H": {
+        "claims": 16,
+        "abstract": 6,
+        "total": 168,
+        "documents": 39,
+        "description": 146
+      },
+      "G": {
+        "claims": 195,
+        "abstract": 49,
+        "total": 1453,
+        "documents": 99,
+        "description": 1209
+      }
+    },
+    "2015": {
+      "A": {
+        "claims": 7,
+        "abstract": 5,
+        "total": 67,
+        "documents": 16,
+        "description": 55
+      },
+      "H": {
+        "claims": 50,
+        "abstract": 16,
+        "total": 422,
+        "documents": 70,
+        "description": 356
+      },
+      "G": {
+        "claims": 104,
+        "abstract": 27,
+        "total": 1079,
+        "documents": 145,
+        "description": 948
+      }
+    },
+    "2014": {
+      "A": {
+        "claims": 2,
+        "abstract": 1,
+        "total": 16,
+        "documents": 8,
+        "description": 13
+      },
+      "H": {
+        "claims": 12,
+        "abstract": 2,
+        "total": 265,
+        "documents": 66,
+        "description": 251
+      },
+      "G": {
+        "claims": 75,
+        "abstract": 13,
+        "total": 1200,
+        "documents": 164,
+        "description": 1112
+      }
+    },
+    "2008": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 14,
+        "documents": 10,
+        "description": 14
+      },
+      "H": {
+        "claims": 24,
+        "abstract": 6,
+        "total": 519,
+        "documents": 71,
+        "description": 489
+      },
+      "G": {
+        "claims": 94,
+        "abstract": 13,
+        "total": 1332,
+        "documents": 148,
+        "description": 1225
+      }
+    },
+    "2009": {
+      "A": {
+        "claims": 12,
+        "abstract": 1,
+        "total": 67,
+        "documents": 14,
+        "description": 54
+      },
+      "H": {
+        "claims": 17,
+        "abstract": 7,
+        "total": 293,
+        "documents": 67,
+        "description": 269
+      },
+      "G": {
+        "claims": 113,
+        "abstract": 28,
+        "total": 1291,
+        "documents": 166,
+        "description": 1150
+      }
+    },
+    "2011": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 13,
+        "documents": 11,
+        "description": 13
+      },
+      "H": {
+        "claims": 2,
+        "abstract": 2,
+        "total": 206,
+        "documents": 48,
+        "description": 202
+      },
+      "G": {
+        "claims": 79,
+        "abstract": 9,
+        "total": 1102,
+        "documents": 113,
+        "description": 1014
+      }
+    },
+    "2010": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 4,
+        "documents": 3,
+        "description": 4
+      },
+      "H": {
+        "claims": 14,
+        "abstract": 3,
+        "total": 385,
+        "documents": 79,
+        "description": 368
+      },
+      "G": {
+        "claims": 93,
+        "abstract": 10,
+        "total": 864,
+        "documents": 123,
+        "description": 761
+      }
+    },
+    "2013": {
+      "A": {
+        "claims": 1,
+        "abstract": 2,
+        "total": 31,
+        "documents": 13,
+        "description": 28
+      },
+      "H": {
+        "claims": 28,
+        "abstract": 5,
+        "total": 249,
+        "documents": 49,
+        "description": 216
+      },
+      "G": {
+        "claims": 68,
+        "abstract": 21,
+        "total": 903,
+        "documents": 146,
+        "description": 814
+      }
+    },
+    "2012": {
+      "A": {
+        "claims": 1,
+        "abstract": 0,
+        "total": 22,
+        "documents": 10,
+        "description": 21
+      },
+      "H": {
+        "claims": 14,
+        "abstract": 6,
+        "total": 281,
+        "documents": 73,
+        "description": 261
+      },
+      "G": {
+        "claims": 31,
+        "abstract": 8,
+        "total": 662,
+        "documents": 131,
+        "description": 623
+      }
+    }
+  },
+  "domotique": {
+    "2016": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 18,
+        "abstract": 3,
+        "total": 47,
+        "documents": 1,
+        "description": 26
+      }
+    },
+    "2017": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2002": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 1,
+        "total": 27,
+        "documents": 13,
+        "description": 26
+      },
+      "G": {
+        "claims": 1,
+        "abstract": 0,
+        "total": 7,
+        "documents": 5,
+        "description": 6
+      }
+    },
+    "2003": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 12,
+        "abstract": 5,
+        "total": 77,
+        "documents": 29,
+        "description": 60
+      },
+      "G": {
+        "claims": 10,
+        "abstract": 1,
+        "total": 40,
+        "documents": 14,
+        "description": 29
+      }
+    },
+    "2000": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 1,
+        "total": 34,
+        "documents": 14,
+        "description": 33
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 5,
+        "documents": 5,
+        "description": 5
+      }
+    },
+    "2001": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 23,
+        "abstract": 3,
+        "total": 54,
+        "documents": 16,
+        "description": 28
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 9,
+        "documents": 6,
+        "description": 9
+      }
+    },
+    "2006": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 3,
+        "documents": 1,
+        "description": 3
+      },
+      "H": {
+        "claims": 28,
+        "abstract": 12,
+        "total": 173,
+        "documents": 21,
+        "description": 133
+      },
+      "G": {
+        "claims": 28,
+        "abstract": 9,
+        "total": 113,
+        "documents": 8,
+        "description": 76
+      }
+    },
+    "2007": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 3,
+        "documents": 2,
+        "description": 3
+      },
+      "H": {
+        "claims": 17,
+        "abstract": 7,
+        "total": 112,
+        "documents": 20,
+        "description": 88
+      },
+      "G": {
+        "claims": 29,
+        "abstract": 10,
+        "total": 129,
+        "documents": 12,
+        "description": 90
+      }
+    },
+    "2004": {
+      "A": {
+        "claims": 3,
+        "abstract": 2,
+        "total": 11,
+        "documents": 2,
+        "description": 6
+      },
+      "H": {
+        "claims": 7,
+        "abstract": 4,
+        "total": 61,
+        "documents": 22,
+        "description": 50
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 1,
+        "total": 18,
+        "documents": 9,
+        "description": 17
+      }
+    },
+    "2005": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "H": {
+        "claims": 22,
+        "abstract": 8,
+        "total": 82,
+        "documents": 16,
+        "description": 52
+      },
+      "G": {
+        "claims": 25,
+        "abstract": 6,
+        "total": 94,
+        "documents": 14,
+        "description": 63
+      }
+    },
+    "2015": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 173,
+        "abstract": 34,
+        "total": 1016,
+        "documents": 31,
+        "description": 809
+      },
+      "G": {
+        "claims": 132,
+        "abstract": 30,
+        "total": 837,
+        "documents": 28,
+        "description": 675
+      }
+    },
+    "2014": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 6,
+        "documents": 2,
+        "description": 6
+      },
+      "H": {
+        "claims": 187,
+        "abstract": 23,
+        "total": 883,
+        "documents": 50,
+        "description": 673
+      },
+      "G": {
+        "claims": 94,
+        "abstract": 19,
+        "total": 604,
+        "documents": 35,
+        "description": 491
+      }
+    },
+    "2008": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 39,
+        "abstract": 11,
+        "total": 189,
+        "documents": 26,
+        "description": 139
+      },
+      "G": {
+        "claims": 41,
+        "abstract": 14,
+        "total": 181,
+        "documents": 14,
+        "description": 126
+      }
+    },
+    "2009": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "H": {
+        "claims": 55,
+        "abstract": 12,
+        "total": 156,
+        "documents": 22,
+        "description": 89
+      },
+      "G": {
+        "claims": 42,
+        "abstract": 8,
+        "total": 182,
+        "documents": 14,
+        "description": 132
+      }
+    },
+    "2011": {
+      "A": {
+        "claims": 6,
+        "abstract": 3,
+        "total": 28,
+        "documents": 3,
+        "description": 19
+      },
+      "H": {
+        "claims": 48,
+        "abstract": 15,
+        "total": 236,
+        "documents": 31,
+        "description": 173
+      },
+      "G": {
+        "claims": 74,
+        "abstract": 17,
+        "total": 340,
+        "documents": 23,
+        "description": 249
+      }
+    },
+    "2010": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 5,
+        "abstract": 0,
+        "total": 58,
+        "documents": 23,
+        "description": 53
+      },
+      "G": {
+        "claims": 87,
+        "abstract": 29,
+        "total": 438,
+        "documents": 29,
+        "description": 322
+      }
+    },
+    "2013": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 2,
+        "documents": 1,
+        "description": 2
+      },
+      "H": {
+        "claims": 51,
+        "abstract": 17,
+        "total": 308,
+        "documents": 29,
+        "description": 240
+      },
+      "G": {
+        "claims": 31,
+        "abstract": 10,
+        "total": 164,
+        "documents": 14,
+        "description": 123
+      }
+    },
+    "2012": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 93,
+        "abstract": 17,
+        "total": 517,
+        "documents": 29,
+        "description": 407
+      },
+      "G": {
+        "claims": 30,
+        "abstract": 13,
+        "total": 184,
+        "documents": 16,
+        "description": 141
+      }
+    }
+  },
+  "diplome": {
+    "2016": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2017": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2002": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      }
+    },
+    "2003": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 3,
+        "documents": 3,
+        "description": 3
+      }
+    },
+    "2000": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2001": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 2,
+        "documents": 1,
+        "description": 2
+      }
+    },
+    "2006": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2007": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      }
+    },
+    "2004": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 4,
+        "abstract": 1,
+        "total": 10,
+        "documents": 1,
+        "description": 5
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 2,
+        "documents": 2,
+        "description": 2
+      }
+    },
+    "2005": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2015": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2014": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 2,
+        "documents": 2,
+        "description": 2
+      }
+    },
+    "2008": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2009": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 2,
+        "documents": 2,
+        "description": 2
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 2,
+        "documents": 2,
+        "description": 2
+      }
+    },
+    "2011": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 1,
+        "abstract": 0,
+        "total": 3,
+        "documents": 1,
+        "description": 2
+      }
+    },
+    "2010": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "G": {
+        "claims": 1,
+        "abstract": 0,
+        "total": 3,
+        "documents": 2,
+        "description": 2
+      }
+    },
+    "2013": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 1,
+        "documents": 1,
+        "description": 1
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 3,
+        "documents": 1,
+        "description": 3
+      }
+    },
+    "2012": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    }
+  },
+  "ecran": {
+    "2016": {
+      "A": {
+        "claims": 11,
+        "abstract": 6,
+        "total": 83,
+        "documents": 16,
+        "description": 66
+      },
+      "H": {
+        "claims": 90,
+        "abstract": 25,
+        "total": 843,
+        "documents": 24,
+        "description": 728
+      },
+      "G": {
+        "claims": 185,
+        "abstract": 29,
+        "total": 2496,
+        "documents": 83,
+        "description": 2282
+      }
+    },
+    "2017": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2002": {
+      "A": {
+        "claims": 81,
+        "abstract": 20,
+        "total": 518,
+        "documents": 97,
+        "description": 417
+      },
+      "H": {
+        "claims": 531,
+        "abstract": 116,
+        "total": 4021,
+        "documents": 497,
+        "description": 3374
+      },
+      "G": {
+        "claims": 558,
+        "abstract": 160,
+        "total": 4547,
+        "documents": 506,
+        "description": 3829
+      }
+    },
+    "2003": {
+      "A": {
+        "claims": 149,
+        "abstract": 42,
+        "total": 836,
+        "documents": 88,
+        "description": 645
+      },
+      "H": {
+        "claims": 586,
+        "abstract": 126,
+        "total": 5086,
+        "documents": 513,
+        "description": 4374
+      },
+      "G": {
+        "claims": 701,
+        "abstract": 181,
+        "total": 4622,
+        "documents": 490,
+        "description": 3740
+      }
+    },
+    "2000": {
+      "A": {
+        "claims": 67,
+        "abstract": 17,
+        "total": 347,
+        "documents": 40,
+        "description": 263
+      },
+      "H": {
+        "claims": 269,
+        "abstract": 61,
+        "total": 2126,
+        "documents": 266,
+        "description": 1796
+      },
+      "G": {
+        "claims": 453,
+        "abstract": 95,
+        "total": 3035,
+        "documents": 268,
+        "description": 2487
+      }
+    },
+    "2001": {
+      "A": {
+        "claims": 126,
+        "abstract": 42,
+        "total": 783,
+        "documents": 91,
+        "description": 615
+      },
+      "H": {
+        "claims": 555,
+        "abstract": 133,
+        "total": 4246,
+        "documents": 506,
+        "description": 3558
+      },
+      "G": {
+        "claims": 749,
+        "abstract": 157,
+        "total": 4839,
+        "documents": 528,
+        "description": 3933
+      }
+    },
+    "2006": {
+      "A": {
+        "claims": 156,
+        "abstract": 45,
+        "total": 1037,
+        "documents": 114,
+        "description": 836
+      },
+      "H": {
+        "claims": 355,
+        "abstract": 107,
+        "total": 3344,
+        "documents": 442,
+        "description": 2882
+      },
+      "G": {
+        "claims": 628,
+        "abstract": 148,
+        "total": 4421,
+        "documents": 531,
+        "description": 3645
+      }
+    },
+    "2007": {
+      "A": {
+        "claims": 110,
+        "abstract": 28,
+        "total": 715,
+        "documents": 97,
+        "description": 577
+      },
+      "H": {
+        "claims": 409,
+        "abstract": 87,
+        "total": 3291,
+        "documents": 400,
+        "description": 2795
+      },
+      "G": {
+        "claims": 746,
+        "abstract": 180,
+        "total": 5522,
+        "documents": 548,
+        "description": 4596
+      }
+    },
+    "2004": {
+      "A": {
+        "claims": 85,
+        "abstract": 27,
+        "total": 620,
+        "documents": 88,
+        "description": 508
+      },
+      "H": {
+        "claims": 641,
+        "abstract": 146,
+        "total": 4229,
+        "documents": 464,
+        "description": 3442
+      },
+      "G": {
+        "claims": 571,
+        "abstract": 136,
+        "total": 4152,
+        "documents": 486,
+        "description": 3445
+      }
+    },
+    "2005": {
+      "A": {
+        "claims": 114,
+        "abstract": 34,
+        "total": 892,
+        "documents": 122,
+        "description": 744
+      },
+      "H": {
+        "claims": 448,
+        "abstract": 101,
+        "total": 3766,
+        "documents": 419,
+        "description": 3217
+      },
+      "G": {
+        "claims": 629,
+        "abstract": 179,
+        "total": 4558,
+        "documents": 493,
+        "description": 3750
+      }
+    },
+    "2015": {
+      "A": {
+        "claims": 121,
+        "abstract": 37,
+        "total": 960,
+        "documents": 121,
+        "description": 802
+      },
+      "H": {
+        "claims": 462,
+        "abstract": 84,
+        "total": 3992,
+        "documents": 300,
+        "description": 3446
+      },
+      "G": {
+        "claims": 1116,
+        "abstract": 242,
+        "total": 10215,
+        "documents": 669,
+        "description": 8857
+      }
+    },
+    "2014": {
+      "A": {
+        "claims": 183,
+        "abstract": 53,
+        "total": 1756,
+        "documents": 143,
+        "description": 1520
+      },
+      "H": {
+        "claims": 288,
+        "abstract": 61,
+        "total": 2571,
+        "documents": 419,
+        "description": 2222
+      },
+      "G": {
+        "claims": 1216,
+        "abstract": 302,
+        "total": 9598,
+        "documents": 745,
+        "description": 8080
+      }
+    },
+    "2008": {
+      "A": {
+        "claims": 66,
+        "abstract": 12,
+        "total": 593,
+        "documents": 119,
+        "description": 515
+      },
+      "H": {
+        "claims": 302,
+        "abstract": 76,
+        "total": 2625,
+        "documents": 392,
+        "description": 2247
+      },
+      "G": {
+        "claims": 631,
+        "abstract": 165,
+        "total": 5324,
+        "documents": 551,
+        "description": 4528
+      }
+    },
+    "2009": {
+      "A": {
+        "claims": 181,
+        "abstract": 45,
+        "total": 1646,
+        "documents": 127,
+        "description": 1420
+      },
+      "H": {
+        "claims": 234,
+        "abstract": 72,
+        "total": 2151,
+        "documents": 318,
+        "description": 1845
+      },
+      "G": {
+        "claims": 651,
+        "abstract": 158,
+        "total": 4750,
+        "documents": 535,
+        "description": 3941
+      }
+    },
+    "2011": {
+      "A": {
+        "claims": 67,
+        "abstract": 19,
+        "total": 581,
+        "documents": 103,
+        "description": 495
+      },
+      "H": {
+        "claims": 372,
+        "abstract": 76,
+        "total": 3437,
+        "documents": 342,
+        "description": 2989
+      },
+      "G": {
+        "claims": 837,
+        "abstract": 188,
+        "total": 6430,
+        "documents": 558,
+        "description": 5405
+      }
+    },
+    "2010": {
+      "A": {
+        "claims": 92,
+        "abstract": 31,
+        "total": 878,
+        "documents": 102,
+        "description": 755
+      },
+      "H": {
+        "claims": 332,
+        "abstract": 81,
+        "total": 3063,
+        "documents": 339,
+        "description": 2650
+      },
+      "G": {
+        "claims": 728,
+        "abstract": 203,
+        "total": 5686,
+        "documents": 522,
+        "description": 4755
+      }
+    },
+    "2013": {
+      "A": {
+        "claims": 152,
+        "abstract": 34,
+        "total": 1078,
+        "documents": 147,
+        "description": 892
+      },
+      "H": {
+        "claims": 343,
+        "abstract": 58,
+        "total": 3062,
+        "documents": 353,
+        "description": 2661
+      },
+      "G": {
+        "claims": 1193,
+        "abstract": 275,
+        "total": 9214,
+        "documents": 714,
+        "description": 7746
+      }
+    },
+    "2012": {
+      "A": {
+        "claims": 113,
+        "abstract": 32,
+        "total": 849,
+        "documents": 101,
+        "description": 704
+      },
+      "H": {
+        "claims": 402,
+        "abstract": 83,
+        "total": 3084,
+        "documents": 280,
+        "description": 2599
+      },
+      "G": {
+        "claims": 920,
+        "abstract": 224,
+        "total": 7567,
+        "documents": 622,
+        "description": 6423
+      }
+    }
+  },
+  "stylet": {
+    "2016": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 5,
+        "documents": 4,
+        "description": 5
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 7,
+        "documents": 7,
+        "description": 7
+      }
+    },
+    "2017": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2002": {
+      "A": {
+        "claims": 4,
+        "abstract": 4,
+        "total": 23,
+        "documents": 3,
+        "description": 15
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 7,
+        "documents": 4,
+        "description": 7
+      },
+      "G": {
+        "claims": 26,
+        "abstract": 4,
+        "total": 98,
+        "documents": 10,
+        "description": 68
+      }
+    },
+    "2003": {
+      "A": {
+        "claims": 1,
+        "abstract": 2,
+        "total": 13,
+        "documents": 4,
+        "description": 10
+      },
+      "H": {
+        "claims": 2,
+        "abstract": 0,
+        "total": 366,
+        "documents": 16,
+        "description": 364
+      },
+      "G": {
+        "claims": 13,
+        "abstract": 2,
+        "total": 91,
+        "documents": 17,
+        "description": 76
+      }
+    },
+    "2000": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 9,
+        "documents": 2,
+        "description": 9
+      },
+      "H": {
+        "claims": 13,
+        "abstract": 0,
+        "total": 42,
+        "documents": 2,
+        "description": 29
+      },
+      "G": {
+        "claims": 2,
+        "abstract": 0,
+        "total": 45,
+        "documents": 6,
+        "description": 43
+      }
+    },
+    "2001": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 15,
+        "documents": 5,
+        "description": 15
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 1,
+        "total": 9,
+        "documents": 5,
+        "description": 8
+      },
+      "G": {
+        "claims": 16,
+        "abstract": 6,
+        "total": 157,
+        "documents": 17,
+        "description": 135
+      }
+    },
+    "2006": {
+      "A": {
+        "claims": 3,
+        "abstract": 0,
+        "total": 24,
+        "documents": 7,
+        "description": 21
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 1,
+        "total": 14,
+        "documents": 10,
+        "description": 13
+      },
+      "G": {
+        "claims": 18,
+        "abstract": 4,
+        "total": 147,
+        "documents": 16,
+        "description": 125
+      }
+    },
+    "2007": {
+      "A": {
+        "claims": 10,
+        "abstract": 3,
+        "total": 73,
+        "documents": 6,
+        "description": 60
+      },
+      "H": {
+        "claims": 7,
+        "abstract": 0,
+        "total": 57,
+        "documents": 11,
+        "description": 50
+      },
+      "G": {
+        "claims": 7,
+        "abstract": 6,
+        "total": 96,
+        "documents": 22,
+        "description": 83
+      }
+    },
+    "2004": {
+      "A": {
+        "claims": 7,
+        "abstract": 1,
+        "total": 49,
+        "documents": 12,
+        "description": 41
+      },
+      "H": {
+        "claims": 7,
+        "abstract": 0,
+        "total": 39,
+        "documents": 10,
+        "description": 32
+      },
+      "G": {
+        "claims": 4,
+        "abstract": 0,
+        "total": 56,
+        "documents": 18,
+        "description": 52
+      }
+    },
+    "2005": {
+      "A": {
+        "claims": 8,
+        "abstract": 0,
+        "total": 16,
+        "documents": 3,
+        "description": 8
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 14,
+        "documents": 7,
+        "description": 14
+      },
+      "G": {
+        "claims": 6,
+        "abstract": 2,
+        "total": 70,
+        "documents": 14,
+        "description": 62
+      }
+    },
+    "2015": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 22,
+        "documents": 15,
+        "description": 22
+      },
+      "G": {
+        "claims": 2,
+        "abstract": 1,
+        "total": 80,
+        "documents": 45,
+        "description": 77
+      }
+    },
+    "2014": {
+      "A": {
+        "claims": 3,
+        "abstract": 0,
+        "total": 32,
+        "documents": 8,
+        "description": 29
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 6,
+        "documents": 4,
+        "description": 6
+      },
+      "G": {
+        "claims": 18,
+        "abstract": 1,
+        "total": 144,
+        "documents": 35,
+        "description": 125
+      }
+    },
+    "2008": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 10,
+        "documents": 5,
+        "description": 10
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 24,
+        "documents": 16,
+        "description": 24
+      },
+      "G": {
+        "claims": 25,
+        "abstract": 5,
+        "total": 163,
+        "documents": 28,
+        "description": 133
+      }
+    },
+    "2009": {
+      "A": {
+        "claims": 6,
+        "abstract": 3,
+        "total": 86,
+        "documents": 14,
+        "description": 77
+      },
+      "H": {
+        "claims": 1,
+        "abstract": 0,
+        "total": 20,
+        "documents": 12,
+        "description": 19
+      },
+      "G": {
+        "claims": 6,
+        "abstract": 4,
+        "total": 86,
+        "documents": 23,
+        "description": 76
+      }
+    },
+    "2011": {
+      "A": {
+        "claims": 4,
+        "abstract": 1,
+        "total": 35,
+        "documents": 2,
+        "description": 30
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 16,
+        "documents": 8,
+        "description": 16
+      },
+      "G": {
+        "claims": 12,
+        "abstract": 2,
+        "total": 139,
+        "documents": 35,
+        "description": 125
+      }
+    },
+    "2010": {
+      "A": {
+        "claims": 1,
+        "abstract": 0,
+        "total": 13,
+        "documents": 7,
+        "description": 12
+      },
+      "H": {
+        "claims": 5,
+        "abstract": 0,
+        "total": 23,
+        "documents": 9,
+        "description": 18
+      },
+      "G": {
+        "claims": 1,
+        "abstract": 0,
+        "total": 82,
+        "documents": 28,
+        "description": 81
+      }
+    },
+    "2013": {
+      "A": {
+        "claims": 1,
+        "abstract": 0,
+        "total": 22,
+        "documents": 3,
+        "description": 21
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 12,
+        "documents": 9,
+        "description": 12
+      },
+      "G": {
+        "claims": 3,
+        "abstract": 6,
+        "total": 217,
+        "documents": 59,
+        "description": 208
+      }
+    },
+    "2012": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 3,
+        "documents": 3,
+        "description": 3
+      },
+      "H": {
+        "claims": 3,
+        "abstract": 0,
+        "total": 23,
+        "documents": 12,
+        "description": 20
+      },
+      "G": {
+        "claims": 4,
+        "abstract": 3,
+        "total": 232,
+        "documents": 32,
+        "description": 225
+      }
+    }
+  },
+  "tactile": {
+    "2016": {
+      "A": {
+        "claims": 8,
+        "abstract": 1,
+        "total": 79,
+        "documents": 6,
+        "description": 70
+      },
+      "H": {
+        "claims": 73,
+        "abstract": 17,
+        "total": 777,
+        "documents": 20,
+        "description": 687
+      },
+      "G": {
+        "claims": 121,
+        "abstract": 35,
+        "total": 1498,
+        "documents": 57,
+        "description": 1342
+      }
+    },
+    "2017": {
+      "A": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "H": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      },
+      "G": {
+        "claims": 0,
+        "abstract": 0,
+        "total": 0,
+        "documents": 0,
+        "description": 0
+      }
+    },
+    "2002": {
+      "A": {
+        "claims": 9,
+        "abstract": 4,
+        "total": 65,
+        "documents": 28,
+        "description": 52
+      },
+      "H": {
+        "claims": 52,
+        "abstract": 17,
+        "total": 327,
+        "documents": 54,
+        "description": 258
+      },
+      "G": {
+        "claims": 87,
+        "abstract": 19,
+        "total": 479,
+        "documents": 96,
+        "description": 373
+      }
+    },
+    "2003": {
+      "A": {
+        "claims": 8,
+        "abstract": 0,
+        "total": 35,
+        "documents": 22,
+        "description": 27
+      },
+      "H": {
+        "claims": 30,
+        "abstract": 7,
+        "total": 265,
+        "documents": 75,
+        "description": 228
+      },
+      "G": {
+        "claims": 92,
+        "abstract": 23,
+        "total": 601,
+        "documents": 77,
+        "description": 486
+      }
+    },
+    "2000": {
+      "A": {
+        "claims": 8,
+        "abstract": 1,
+        "total": 55,
+        "documents": 13,
+        "description": 46
+      },
+      "H": {
+        "claims": 25,
+        "abstract": 7,
+        "total": 125,
+        "documents": 17,
+        "description": 93
+      },
+      "G": {
+        "claims": 40,
+        "abstract": 3,
+        "total": 197,
+        "documents": 38,
+        "description": 154
+      }
+    },
+    "2001": {
+      "A": {
+        "claims": 13,
+        "abstract": 4,
+        "total": 53,
+        "documents": 20,
+        "description": 36
+      },
+      "H": {
+        "claims": 27,
+        "abstract": 9,
+        "total": 194,
+        "documents": 53,
+        "description": 158
+      },
+      "G": {
+        "claims": 91,
+        "abstract": 15,
+        "total": 416,
+        "documents": 66,
+        "description": 310
+      }
+    },
+    "2006": {
+      "A": {
+        "claims": 8,
+        "abstract": 1,
+        "total": 52,
+        "documents": 20,
+        "description": 43
+      },
+      "H": {
+        "claims": 16,
+        "abstract": 5,
+        "total": 181,
+        "documents": 49,
+        "description": 160
+      },
+      "G": {
+        "claims": 107,
+        "abstract": 24,
+        "total": 480,
+        "documents": 77,
+        "description": 349
+      }
+    },
+    "2007": {
+      "A": {
+        "claims": 4,
+        "abstract": 2,
+        "total": 63,
+        "documents": 27,
+        "description": 57
+      },
+      "H": {
+        "claims": 115,
+        "abstract": 23,
+        "total": 556,
+        "documents": 63,
+        "description": 418
+      },
+      "G": {
+        "claims": 233,
+        "abstract": 58,
+        "total": 1310,
+        "documents": 112,
+        "description": 1019
+      }
+    },
+    "2004": {
+      "A": {
+        "claims": 13,
+        "abstract": 4,
+        "total": 81,
+        "documents": 23,
+        "description": 64
+      },
+      "H": {
+        "claims": 13,
+        "abstract": 1,
+        "total": 95,
+        "documents": 43,
+        "description": 81
+      },
+      "G": {
+        "claims": 70,
+        "abstract": 10,
+        "total": 332,
+        "documents": 77,
+        "description": 252
+      }
+    },
+    "2005": {
+      "A": {
+        "claims": 7,
+        "abstract": 4,
+        "total": 51,
+        "documents": 20,
+        "description": 40
+      },
+      "H": {
+        "claims": 31,
+        "abstract": 7,
+        "total": 230,
+        "documents": 53,
+        "description": 192
+      },
+      "G": {
+        "claims": 135,
+        "abstract": 27,
+        "total": 627,
+        "documents": 84,
+        "description": 465
+      }
+    },
+    "2015": {
+      "A": {
+        "claims": 63,
+        "abstract": 20,
+        "total": 446,
+        "documents": 72,
+        "description": 363
+      },
+      "H": {
+        "claims": 95,
+        "abstract": 14,
+        "total": 1211,
+        "documents": 115,
+        "description": 1102
+      },
+      "G": {
+        "claims": 666,
+        "abstract": 113,
+        "total": 5551,
+        "documents": 305,
+        "description": 4772
+      }
+    },
+    "2014": {
+      "A": {
+        "claims": 104,
+        "abstract": 13,
+        "total": 679,
+        "documents": 99,
+        "description": 562
+      },
+      "H": {
+        "claims": 38,
+        "abstract": 9,
+        "total": 528,
+        "documents": 168,
+        "description": 481
+      },
+      "G": {
+        "claims": 489,
+        "abstract": 121,
+        "total": 3255,
+        "documents": 338,
+        "description": 2645
+      }
+    },
+    "2008": {
+      "A": {
+        "claims": 7,
+        "abstract": 2,
+        "total": 71,
+        "documents": 36,
+        "description": 62
+      },
+      "H": {
+        "claims": 50,
+        "abstract": 9,
+        "total": 317,
+        "documents": 56,
+        "description": 258
+      },
+      "G": {
+        "claims": 228,
+        "abstract": 76,
+        "total": 1545,
+        "documents": 147,
+        "description": 1241
+      }
+    },
+    "2009": {
+      "A": {
+        "claims": 24,
+        "abstract": 6,
+        "total": 289,
+        "documents": 44,
+        "description": 259
+      },
+      "H": {
+        "claims": 52,
+        "abstract": 12,
+        "total": 346,
+        "documents": 60,
+        "description": 282
+      },
+      "G": {
+        "claims": 259,
+        "abstract": 59,
+        "total": 1453,
+        "documents": 139,
+        "description": 1135
+      }
+    },
+    "2011": {
+      "A": {
+        "claims": 21,
+        "abstract": 8,
+        "total": 162,
+        "documents": 33,
+        "description": 133
+      },
+      "H": {
+        "claims": 76,
+        "abstract": 20,
+        "total": 635,
+        "documents": 106,
+        "description": 539
+      },
+      "G": {
+        "claims": 519,
+        "abstract": 89,
+        "total": 3211,
+        "documents": 222,
+        "description": 2603
+      }
+    },
+    "2010": {
+      "A": {
+        "claims": 26,
+        "abstract": 7,
+        "total": 171,
+        "documents": 36,
+        "description": 138
+      },
+      "H": {
+        "claims": 128,
+        "abstract": 21,
+        "total": 709,
+        "documents": 89,
+        "description": 560
+      },
+      "G": {
+        "claims": 365,
+        "abstract": 104,
+        "total": 2343,
+        "documents": 163,
+        "description": 1874
+      }
+    },
+    "2013": {
+      "A": {
+        "claims": 79,
+        "abstract": 20,
+        "total": 499,
+        "documents": 62,
+        "description": 400
+      },
+      "H": {
+        "claims": 136,
+        "abstract": 18,
+        "total": 833,
+        "documents": 143,
+        "description": 679
+      },
+      "G": {
+        "claims": 534,
+        "abstract": 115,
+        "total": 3551,
+        "documents": 336,
+        "description": 2902
+      }
+    },
+    "2012": {
+      "A": {
+        "claims": 28,
+        "abstract": 8,
+        "total": 242,
+        "documents": 48,
+        "description": 206
+      },
+      "H": {
+        "claims": 98,
+        "abstract": 17,
+        "total": 562,
+        "documents": 112,
+        "description": 447
+      },
+      "G": {
+        "claims": 589,
+        "abstract": 141,
+        "total": 3368,
+        "documents": 268,
+        "description": 2638
+      }
+    }
+  }
+}
